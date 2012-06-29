@@ -1,0 +1,7 @@
+[
+{
+	"keys": ["control+shift+."],
+	"command": "insert_snippet",
+	"args": { "name": "EJS/insert_ejs_tags.sublime-snippet" }
+}
+]
