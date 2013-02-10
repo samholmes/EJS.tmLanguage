@@ -15,6 +15,10 @@ This syntax definition uses <? and ?> for opening and closing tags, respectively
 		?>
 	</div>
 
+`<?` and `?>` where chosen because of the convenience to type on a qwerty keyboard. 
+If you would like to change the open and closing tags in the syntax file to `<%` and `%>`, 
+then change line 579 `<\?=?-?` to `<%=?-?` and 589 `\?>` to: `%>` in the EJS.tmLanguage file.
+
 ## Feedback
 
 Feedback on this project is welcome. Let me know if you have problems with the syntax definition by creating a new GitHub issue.
