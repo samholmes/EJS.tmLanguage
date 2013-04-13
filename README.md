@@ -25,5 +25,6 @@ Feedback on this project is welcome. Let me know if you have problems with the s
 
 Tips or donations are also very appreciated.
 
+[![Gittip](https://www.gittip.com/assets/8.0.8/logo.png)](https://www.gittip.com/samholmes/)
 [![PayPal Donation](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif "Donate using PayPal")](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SJCCMHKZLMSX2&lc=US&item_name=EJS%2etmLanguage&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted)  
-[<img src="https://en.bitcoin.it/w/images/en/c/c4/BC_Logotype_Reverse.png" height='18'>](bitcoin:1Ep5xmuRhFQREJ9BjPnySmtK3fxkWankDc) 1Ep5xmuRhFQREJ9BjPnySmtK3fxkWankDc
+[<img src="https://en.bitcoin.it/w/images/en/c/c4/BC_Logotype_Reverse.png" height='18'>](bitcoin:1Ep5xmuRhFQREJ9BjPnySmtK3fxkWankDc) **1Ep5xmuRhFQREJ9BjPnySmtK3fxkWankDc**
