@@ -1,0 +1,10 @@
+[
+	{
+		"caption": "EJS: <? and ?>",
+		"command": "ejs_qmarks"
+	},
+	{
+		"caption": "EJS: <% and %>",
+		"command": "ejs_percents"
+	}
+]

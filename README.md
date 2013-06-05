@@ -2,22 +2,12 @@
 
 An EJS syntax definition specifically for sublime text.
 
-This syntax definition uses <? and ?> for opening and closing tags, respectively. Here's an example:
+There are two syntax definitions included in this package, each with different EJS open and closing tags.
+You can switch between these syntax definitions via the commands `EJS: <% and %>` and `EJS: <? and ?>` 
+in the command palette (_Ctrl+Shift+P_ on Win and _Cmd+Shift+P_ on Mac).
 
-	<div id='user-<?- userId ?>'>
-		<?
-		if (firstName && lastName)
-		{
-			?>
-			Hello <?= firstName + lastName ?>
-			<?
-		}
-		?>
-	</div>
-
-`<?` and `?>` where chosen because of the convenience to type on a qwerty keyboard. 
-If you would like to change the open and closing tags in the syntax file to `<%` and `%>`, 
-then change line 579 `<\?=?-?` to `<%=?-?` and 589 `\?>` to: `%>` in the EJS.tmLanguage file.
+`<?` and `?>` where chosen alternatives because of the convenience to type on a qwerty keyboard. 
+You can use this option if you prefer the convenience, or stick with EJS's default/recommended open and closing tags (`<%` and `%>`).
 
 ## Feedback
 
