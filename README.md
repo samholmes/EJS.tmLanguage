@@ -4,7 +4,7 @@ An EJS syntax definition specifically for sublime text.
 
 There are two syntax definitions included in this package, each with different EJS open and closing tags.
 You can switch between these syntax definitions via the commands `EJS: <% and %>` and `EJS: <? and ?>` 
-in the command palette (_Ctrl+Shift+P_ on Win and _Cmd+Shift+P_ on Mac).
+in the command palette (Ctrl+Shift+P on Win and Cmd+Shift+P on Mac ).
 
 `<?` and `?>` where chosen alternatives because of the convenience to type on a qwerty keyboard. 
 You can use this option if you prefer the convenience, or stick with EJS's default/recommended open and closing tags (`<%` and `%>`).
