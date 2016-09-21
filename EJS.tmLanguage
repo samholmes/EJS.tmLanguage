@@ -576,7 +576,7 @@
 		<key>js</key>
 		<dict>
 			<key>begin</key>
-			<string>&lt;%=?-?</string>
+			<string>&lt;\%=?-?</string>
 			<key>captures</key>
 			<dict>
 				<key>0</key>
@@ -586,7 +586,7 @@
 				</dict>
 			</dict>
 			<key>end</key>
-			<string>%&gt;</string>
+			<string>\%&gt;</string>
 			<key>name</key>
 			<string>source.js.embedded.html</string>
 			<key>patterns</key>
