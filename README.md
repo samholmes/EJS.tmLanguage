@@ -16,6 +16,10 @@ The following snippets are supported in the HTML scope.
 
 Inserts EJS open and closing tags (`<%=  %>`). Press tab again to move selection ahead and accept the `=` character, or press spacebar to delete the `=` character.
 
+#### `if` + `Tab`
+
+Inserts EJS open and closing tags with JavaScript if and else statements (`<% if (condition) { } else { } %>`).
+
 
 ## Support
 
